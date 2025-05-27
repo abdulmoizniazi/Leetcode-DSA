@@ -18,7 +18,7 @@ class Solution:
                 r = m - 1
         return res
     
-nums = [3,4,5,1,2]
+nums = [3,4,5,5,1,2]
 s = Solution()
 print(s.findMin(nums))
 
